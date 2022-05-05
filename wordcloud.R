@@ -53,7 +53,7 @@ meds2022<- wordcloud(all$word, freq = all$n,
                      scale=c(4,.5), colors=brewer.pal(8, "Dark2"))
 dev.off()
 
-
+# can't figure out how to improve resolution of saved jpeg??
 
 
  
